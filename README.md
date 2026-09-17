@@ -18,7 +18,6 @@ E, a partir desses padrões, como a operação poderia distribuir seus recursos 
 
 Este projeto busca responder essas perguntas utilizando dados reais do **NYC Taxi & Limousine Commission (TLC)**, combinando **Python, Pandas, SQL, Power BI e técnicas de otimização**.
 
-O objetivo não é apenas visualizar os dados, mas transformar milhões de registros de corridas em informações capazes de apoiar decisões operacionais.
 
 
 ##  Objetivos
@@ -51,7 +50,6 @@ O dataset contém mais de **10 milhões de registros** e informações como:
 - pedágios;
 - valor total da corrida.
 
-Devido ao tamanho do dataset, o arquivo CSV não é armazenado diretamente neste repositório.
 
  **Fonte dos dados:**  
 NYC Taxi & Limousine Commission (TLC)
