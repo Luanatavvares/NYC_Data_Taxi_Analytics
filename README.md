@@ -32,7 +32,7 @@ O objetivo não é apenas visualizar os dados, mas transformar milhões de regis
 - Explorar uma abordagem de otimização para distribuição de recursos;
 - Transformar dados brutos em informações para suporte à decisão.
 
----
+
 
 ##  Dados
 
@@ -56,7 +56,7 @@ Devido ao tamanho do dataset, o arquivo CSV não é armazenado diretamente neste
  **Fonte dos dados:**  
 NYC Taxi & Limousine Commission (TLC)
 
----
+
 
 ## Tratamento dos dados
 
@@ -83,7 +83,7 @@ Após o processo de limpeza:
 
 O tratamento foi realizado buscando preservar a maior quantidade possível de informações sem comprometer a qualidade das análises.
 
----
+
 
 ##  Análise exploratória
 
@@ -107,7 +107,7 @@ A combinação entre dia da semana e horário permite identificar períodos espe
 
 Essa análise é especialmente relevante para decisões relacionadas à alocação de veículos e planejamento operacional.
 
----
+
 
 ##  Identificação de anomalias
 
@@ -123,7 +123,7 @@ Foram encontrados registros com:
 
 Esses casos demonstram a importância da etapa de **Data Cleaning** antes da construção de indicadores e modelos analíticos.
 
----
+
 
 ##  Dashboard
 
@@ -155,7 +155,7 @@ Os resultados da análise serão apresentados em um dashboard desenvolvido no **
 - Utilização da frota
 - Demanda atendida e não atendida
 
----
+
 
 ## ⚙️ Otimização operacional
 
@@ -178,7 +178,7 @@ e passa também a investigar:
 
 > **"Como os recursos poderiam ser distribuídos?"**
 
----
+
 
 ## 🛠️ Tecnologias
 
@@ -192,25 +192,5 @@ e passa também a investigar:
 | ⚙️ Operations Research | Formulação do problema de otimização |
 | 🔧 Git/GitHub | Versionamento e documentação |
 
----
 
-## 📁 Estrutura do projeto
-
-```text
-NYC-Taxi-Analytics/
-│
-├── data/
-│   └── README.md
-│
-├── notebooks/
-│   └── NYC_Taxi_Analytics.ipynb
-│
-├── src/
-│   └── limpeza.py
-│
-├── dashboard/
-│   └── NYC_Taxi_Analytics.pbix
-│
-├── README.md
-├── requirements.txt
 └── .gitignore
