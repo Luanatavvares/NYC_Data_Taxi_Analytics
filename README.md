@@ -157,27 +157,6 @@ Os resultados da análise serão apresentados em um dashboard desenvolvido no **
 
 
 
-## ⚙️ Otimização operacional
-
-A etapa de otimização busca utilizar os padrões identificados na análise para formular um problema de decisão.
-
-A ideia é considerar uma quantidade limitada de veículos e determinar como distribuí-los entre diferentes regiões ou períodos de demanda.
-
-O modelo pode considerar objetivos como:
-
-- reduzir demanda não atendida;
-- diminuir desequilíbrios entre regiões;
-- melhorar a utilização da frota;
-- reduzir deslocamentos desnecessários.
-
-Dessa forma, a análise deixa de responder apenas:
-
-> **"O que aconteceu?"**
-
-e passa também a investigar:
-
-> **"Como os recursos poderiam ser distribuídos?"**
-
 
 
 ## 🛠️ Tecnologias
@@ -193,4 +172,3 @@ e passa também a investigar:
 | 🔧 Git/GitHub | Versionamento e documentação |
 
 
-└── .gitignore
