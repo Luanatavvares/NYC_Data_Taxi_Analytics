@@ -4,6 +4,8 @@
 ### Análise de demanda, comportamento das corridas e otimização operacional do serviço de táxis de Nova York
 
 > Um projeto de Data Analytics + Operations Research desenvolvido a partir de dados reais de corridas de táxi de Nova York.
+>
+> link do dataset: https://www.kaggle.com/datasets/ranjanrakesh51/yellow-taxi-trip-data
 
 
 ##  Sobre o projeto
